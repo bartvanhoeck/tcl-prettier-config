@@ -1,5 +1,5 @@
 {
-    "name": "@the-customer-link/prettier-config",
+    "name": "@bartvanhoeck/prettier-config",
     "version": "1.0.1",
     "description": "Prettier Config",
     "main": "index.json",
